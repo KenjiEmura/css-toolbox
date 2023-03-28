@@ -1,0 +1,8 @@
+.pageContainer {
+  height: 200vh;
+}
+
+.header1,
+.header2 {
+  position: sticky;
+}
